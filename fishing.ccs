@@ -3,8 +3,48 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
+        <PlistImageFolder Image="cannon.png" PListFile="cannon.plist" Name=".cannon_PList.Dir">
+          <PlistImageFile Name="actor_cannon1_11.png" Key="actor_cannon1_11.png" />
+          <PlistImageFile Name="actor_cannon1_12.png" Key="actor_cannon1_12.png" />
+          <PlistImageFile Name="actor_cannon1_21.png" Key="actor_cannon1_21.png" />
+          <PlistImageFile Name="actor_cannon1_22.png" Key="actor_cannon1_22.png" />
+          <PlistImageFile Name="actor_cannon1_31.png" Key="actor_cannon1_31.png" />
+          <PlistImageFile Name="actor_cannon1_32.png" Key="actor_cannon1_32.png" />
+          <PlistImageFile Name="actor_cannon1_41.png" Key="actor_cannon1_41.png" />
+          <PlistImageFile Name="actor_cannon1_42.png" Key="actor_cannon1_42.png" />
+          <PlistImageFile Name="actor_cannon1_51.png" Key="actor_cannon1_51.png" />
+          <PlistImageFile Name="actor_cannon1_52.png" Key="actor_cannon1_52.png" />
+          <PlistImageFile Name="actor_cannon1_61.png" Key="actor_cannon1_61.png" />
+          <PlistImageFile Name="actor_cannon1_62.png" Key="actor_cannon1_62.png" />
+          <PlistImageFile Name="actor_cannon1_71.png" Key="actor_cannon1_71.png" />
+          <PlistImageFile Name="actor_cannon1_72.png" Key="actor_cannon1_72.png" />
+          <PlistImageFile Name="actor_cannon_jiguang_01.png" Key="actor_cannon_jiguang_01.png" />
+          <PlistImageFile Name="actor_cannon_jiguang_02.png" Key="actor_cannon_jiguang_02.png" />
+        </PlistImageFolder>
+        <Project Name="battleScene.csd" Type="Scene" />
+        <Image Name="bj01.jpg" />
+        <PlistParticleFile Name="bubble.plist" />
+        <Image Name="button_add.png" />
+        <Image Name="button_reduce.png" />
+        <Image Name="cannon.png" />
+        <Image Name="CloseNormal.png" />
+        <Image Name="CloseSelected.png" />
+        <File Name="fish.plist" />
+        <Image Name="fish.png" />
+        <File Name="fish2.plist" />
+        <Image Name="fish2.png" />
+        <File Name="fish3.plist" />
+        <Image Name="fish3.png" />
+        <File Name="fish4.plist" />
+        <Image Name="fish4.png" />
         <Image Name="HelloWorld.png" />
-        <Project Name="MainScene.csd" Type="Scene" />
+        <File Name="MainScene.csb" />
+        <PlistParticleFile Name="netparticle.plist" />
+        <Image Name="number.png" />
+        <PlistParticleFile Name="particle.plist" />
+        <Image Name="particle.png" />
+        <Image Name="ui_box_01.png" />
+        <Image Name="ui_box_02.png" />
       </RootFolder>
     </Group>
   </SolutionFolder>
